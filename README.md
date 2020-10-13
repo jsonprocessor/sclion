@@ -1,2 +1,2 @@
-# sclion
-Stream Command Line Interface Object Notation
+# sclion processor
+Stream Command Line Interface Object Notation processor
